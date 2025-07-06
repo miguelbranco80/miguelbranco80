@@ -11,7 +11,9 @@ I lead [RAW Labs](https://www.raw-labs.com), where we're reimagining how develop
 
 ### 🎯 Research & Interests
 My background is in distributed systems and databases.
+
 Nowdays, have a growing focus on AI systems, particularly at the intersection of data access, analytics, and data safety.
+
 Before founding RAW Labs, I published on topics like scientific data processing and large-scale distributed data management.
 Check out [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=-9HaVzYAAAAJ) for more.
 
