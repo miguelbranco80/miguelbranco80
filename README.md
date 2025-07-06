@@ -19,7 +19,7 @@ Check out [my Google Scholar profile](https://scholar.google.com/citations?hl=en
 
 ### 💼 Work Experience
 
-- **CTO & Co-Founder – RAW Labs**
+- **CEO & Co-Founder – RAW Labs**
 _Mar 2015 – Present | Lausanne, Switzerland_
 
 Bringing the next-gen data infrastructure to market: a SQL engine built for declarative AI, modern data APIs, and real-time analytics — all over raw, remote, and nested data.
