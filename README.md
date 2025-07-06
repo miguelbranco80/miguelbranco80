@@ -6,16 +6,14 @@ I lead [RAW Labs](https://www.raw-labs.com), where we're reimagining how develop
 
 ### 🚀 What I'm Working On
 - 🧠 [**MXCP**](https://mxcp.dev/) – An open, declarative framework for building and running AI tools & APIs
-- 🐥 [**RAW**](https://raw-labs.com/) – A platform to turn SQL and YAML into production-ready APIs over data
 - 🐘 PostgreSQL extensions & FDWs
-- ⚙️ Deep integrations with **DuckDB**, **DBT**, and **Python**
+- ⚙️ Integrations with **DuckDB**, **DBT**, **Python**, and whatever else helps businesses make sense of their data
 
-### 👨‍💻 Tech I Use Regularly
-- Scala, Python, C, Rust, TypeScript, Bash
-- PostgreSQL, DuckDB, gRPC, Protobuf
-- Kubernetes, GitHub Actions
-- macOS (with a flavor for CLI minimalist setups)
-- .. and lots of [Cursor](https://cursor.com/) and [Replit](https://replit.com/), lately.
+### 🎯 Research & Interests
+My background is in distributed systems and databases.
+Nowdays, have a growing focus on AI systems, particularly at the intersection of data access, analytics, and data safety.
+Before founding RAW Labs, I published on topics like scientific data processing and large-scale distributed data management.
+Check out [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=-9HaVzYAAAAJ) for more.
 
 ### 💼 Work Experience
 
@@ -41,10 +39,15 @@ Researched large-scale distributed systems and managed petabyte-scale scientific
 
 - **Engineer, Software Engineering (1998 – 2003), Universidade do Porto**
 
+### 👨‍💻 Tech I Use Regularly
+- Scala, Python, C, Rust, TypeScript, Bash
+- PostgreSQL, DuckDB, gRPC, Protobuf
+- Kubernetes, GitHub Actions
+- macOS (with a flavor for CLI minimalist setups)
+- .. and lots of [Cursor](https://cursor.com/) and [Replit](https://replit.com/), lately.
+
 ### 🧠 Interests & Side Projects
-- Building smart developer platforms with zero-boilerplate
-- Pushing the limits of local analytics
-- Automating everything (when worth it)
+- Automating... everything (that's worth it)
 - (Occasionally hacking on game dev)
 
 ### 🏠 IRL
