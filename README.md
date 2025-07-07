@@ -63,6 +63,7 @@ Researched large-scale distributed systems and managed petabyte-scale scientific
 ### 📫 Reach Me
 - Twitter/X: [@miguelbranco80](https://twitter.com/miguelbranco80) (don't use much...)
 - GitHub: You're here already
+- Blog: [notes.spacebase.org](https://notes.spacebase.org)
 - Website: [spacebase.org](https://spacebase.org)
 
 ---
