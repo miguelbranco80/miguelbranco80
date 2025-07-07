@@ -9,6 +9,10 @@ I lead [RAW Labs](https://www.raw-labs.com), where we're reimagining how develop
 - 🐘 PostgreSQL extensions & FDWs
 - ⚙️ Integrations with **DuckDB**, **DBT**, **Python**, and whatever else helps businesses make sense of their data
 
+### ✍️ Writing
+
+I (sometimes) publish notes, prototypes, and reflections at [**notes.spacebase.org**](https://notes.spacebase.org).
+
 ### 🎯 Research & Interests
 My background is in distributed systems and databases.
 
