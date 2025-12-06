@@ -1,19 +1,20 @@
 ## Hi there 👋 I'm Miguel Branco
 
-I'm a developer, builder, and founder based in Geneva, Switzerland 🇨🇭 — originally from **Porto, Portugal** 🇵🇹, the land of sunshine and port wine 🍷.
+I’m a systems & data infrastructure founder based in Geneva, Switzerland 🇨🇭 (originally from Porto, Portugal 🇵🇹).
 
-I lead [RAW Labs](https://www.raw-labs.com), where we're reimagining how developers interact with data — with chat interfaces, structured prompts, and a killer SQL engine under the hood.
+I lead [RAW Labs](https://www.raw-labs.com), where we’re building AI‑native data platforms.
 
 ### 🚀 What I'm Working On
 - 🧠 [**MXCP**](https://mxcp.dev/) – An open, declarative framework for building and running AI tools & APIs
-- 🐘 PostgreSQL extensions & FDWs
 - ⚙️ Integrations with **DuckDB**, **DBT**, **Python**, and whatever else helps businesses make sense of their data
+- 🐘 PostgreSQL extensions & FDWs
 
 ### ✍️ Writing
 
 I (sometimes) publish notes, prototypes, and reflections at [**notes.spacebase.org**](https://notes.spacebase.org).
 
 ### 🎯 Research & Interests
+
 My background is in distributed systems and databases.
 
 Nowdays, have a growing focus on AI systems, particularly at the intersection of data access, analytics, and data safety.
@@ -51,14 +52,6 @@ Researched large-scale distributed systems and managed petabyte-scale scientific
 - Kubernetes, GitHub Actions
 - macOS (with a flavor for CLI minimalist setups)
 - .. and lots of [Cursor](https://cursor.com/) and [Replit](https://replit.com/), lately.
-
-### 🧠 Interests & Side Projects
-- Automating... everything (that's worth it)
-- (Occasionally hacking on game dev)
-
-### 🏠 IRL
-- I have two kids, a garden full of millet, and a knack for squeezing performance out of both software (and one, day, small sports cars).
-- You might find me writing a PostgreSQL planner hook one day and coaching youth badminton the next.
 
 ### 📫 Reach Me
 - Twitter/X: [@miguelbranco80](https://twitter.com/miguelbranco80) (don't use much...)
