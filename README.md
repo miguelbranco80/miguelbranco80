@@ -5,9 +5,11 @@ I’m a systems & data infrastructure founder based in Geneva, Switzerland 🇨�
 I lead [RAW Labs](https://www.raw-labs.com), where we’re building AI‑native data platforms.
 
 ### 🚀 What I'm Working On
-- 🧠 [**MXCP**](https://mxcp.dev/) – An open, declarative framework for building and running AI tools & APIs
-- ⚙️ Integrations with **DuckDB**, **DBT**, **Python**, and whatever else helps businesses make sense of their data
-- 🐘 PostgreSQL extensions & FDWs
+- [**MXCP**](https://mxcp.dev/) - An open-source, declarative framework for building and running AI tools & APIs (powered by the [Model Context Protocol](https://modelcontextprotocol.io/))
+- AI engineering: agent SDKs (e.g. **PydanticAI**), tool architectures, execution runtimes
+-	Data systems: **DuckDB**, **dbt**, **PostgreSQL** (incl. FDWs), streaming connectors
+-	Systems & platforms: Python runtimes, sandboxing, secure code execution (e.g. **MicroVMs**, **LSM**), and everything needed to run AI workloads safely at scale
+- And of course, plenty of **Python**, and whatever else helps businesses make sense of their data
 
 ### ✍️ Writing
 
