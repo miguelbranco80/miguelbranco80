@@ -2,9 +2,10 @@
 
 I’m a systems & data infrastructure founder based in Geneva, Switzerland 🇨🇭 (originally from Porto, Portugal 🇵🇹).
 
-I lead [RAW Labs](https://www.raw-labs.com), where we’re building AI‑native data platforms.
+I lead [RAW Labs](https://www.raw-labs.com), where we’re building mission-critical AI workflows for industrial and enterprise applications.
 
 ### 🚀 What I'm Working On
+- AI workflow systems for mission-critical operations, industrial processes, and human+AI collaboration
 - [**MXCP**](https://mxcp.dev/) - An open-source, declarative framework for building and running AI tools & APIs (powered by the [Model Context Protocol](https://modelcontextprotocol.io/))
 - AI engineering: agent SDKs (e.g. **PydanticAI**), tool architectures, execution runtimes
 -	Data systems: **DuckDB**, **dbt**, **PostgreSQL** (incl. FDWs), streaming connectors
@@ -19,7 +20,7 @@ I (sometimes) publish notes, prototypes, and reflections at [**notes.spacebase.o
 
 My background is in distributed systems and databases.
 
-Nowdays, have a growing focus on AI systems, particularly at the intersection of data access, analytics, and data safety.
+Nowdays, have a growing focus on AI systems, particularly at the intersection of data, governance and workflows.
 
 Before founding RAW Labs, I published on topics like scientific data processing and large-scale distributed data management.
 Check out [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=-9HaVzYAAAAJ) for more.
