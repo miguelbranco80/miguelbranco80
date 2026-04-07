@@ -50,7 +50,7 @@ Researched large-scale distributed systems and managed petabyte-scale scientific
 - **Engineer, Software Engineering (1998 – 2003), Universidade do Porto**
 
 ### 👨‍💻 Tech I Use Regularly
-- Scala, Python, C, Rust, TypeScript, Bash
+- TypeScript, Python, C, Rust, Go, Scala, Java, Bash
 - PostgreSQL, DuckDB, gRPC, Protobuf
 - Kubernetes, GitHub Actions
 - macOS (with a flavor for CLI minimalist setups)
