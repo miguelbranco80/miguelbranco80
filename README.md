@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Miguel Branco
+## Hi there. I'm Miguel Branco 👋
 
-I’m a systems & data infrastructure founder based in Geneva, Switzerland 🇨🇭 (originally from Porto, Portugal 🇵🇹).
+I’m a founder and builder working across systems engineering, data, and AI infrastructure, based out of Geneva, Switzerland 🇨🇭 (originally from Porto, Portugal 🇵🇹).
 
-I lead [RAW Labs](https://www.raw-labs.com), where we’re building mission-critical AI workflows for industrial and enterprise applications.
+I'm CEO and co-founder of [RAW Labs](https://www.raw-labs.com), where we’re building mission-critical AI workflows for industrial and enterprise applications.
 
 ### 🚀 What I'm Working On
 - AI workflow systems for mission-critical operations, industrial processes, and human+AI collaboration (see [**Kora**](https://raw-labs.com/platform/kora/))
