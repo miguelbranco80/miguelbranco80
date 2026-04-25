@@ -5,7 +5,7 @@ I’m a founder and builder working across systems engineering, data, and AI inf
 I'm CEO and co-founder of [RAW Labs](https://www.raw-labs.com), where we’re building mission-critical AI workflows for industrial and enterprise applications.
 
 ### 🚀 What I'm Working On
-- AI workflow systems for mission-critical operations, industrial processes, and human+AI collaboration (see [**Kora**](https://raw-labs.com/platform/kora/))
+- [**Kora**](https://raw-labs.com/platform/kora/) - AI workflow systems for mission-critical operations, industrial processes, and human+AI collaboration
 - [**MXCP**](https://mxcp.dev/) - An open-source, declarative framework for building and running AI tools & APIs (powered by the [Model Context Protocol](https://modelcontextprotocol.io/))
 - AI engineering: agent SDKs (e.g. **PydanticAI**), tool architectures, execution runtimes
 -	Data systems: **DuckDB**, **dbt**, **PostgreSQL** (incl. FDWs), streaming connectors
