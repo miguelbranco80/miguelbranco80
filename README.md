@@ -31,7 +31,7 @@ Check out [my Google Scholar profile](https://scholar.google.com/citations?hl=en
 - **CEO & Co-Founder – RAW Labs**
 _Mar 2015 – Present | Lausanne, Switzerland_
 
-Bringing the next-gen data infrastructure to market: a SQL engine built for declarative AI, modern data APIs, and real-time analytics — all over raw, remote, and nested data.
+Helping companies build mission-critical workflows, powered by AI agents. Previously created an enterprise-grade MCP server framework, and custom SQL engine for high-performance real-time data analytics over semi-structured datasets.
 
 - **Researcher in Database Systems – EPFL**
 _Oct 2010 – Feb 2015 | Lausanne, Switzerland_
